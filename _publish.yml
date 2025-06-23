@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 2779a995-be30-46c3-96fe-51cea3a1a7fb
+      url: 'https://jazzy-syrniki-b180cb.netlify.app'

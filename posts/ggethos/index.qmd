@@ -1,0 +1,12 @@
+---
+title: "ggethos"
+description: "R package to plot ethograms within ggplot2"
+image: "ggethos_thumb.png"
+categories: ["R"]
+---
+
+The goal of [ggethos](matiasandina.github.io/ggethos/) is to provide a user-frienldy way to plot ethograms using `ggplot2`.
+
+Check the 📖 [Docs](matiasandina.github.io/ggethos/) and the [Repo](https://github.com/matiasandina/ggethos).
+
+![](ggethos.png){fig-align="center"}

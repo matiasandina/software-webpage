@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Software",
+    "section": "",
+    "text": "FEDWatcher\n\n\n\npython\n\n\n\npython application to store real-time data from FED devices\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nfed3\n\n\n\nR\n\n\n\nR package to import data from FED3 machines and perform analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nggethos\n\n\n\nR\n\n\n\nR package to plot ethograms within ggplot2\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/ggethos/index.html",
+    "href": "posts/ggethos/index.html",
+    "title": "ggethos",
+    "section": "",
+    "text": "The goal of ggethos is to provide a user-frienldy way to plot ethograms using ggplot2.\nCheck the 📖 Docs and the Repo."
+  },
+  {
+    "objectID": "posts/FEDWatcher/index.html",
+    "href": "posts/FEDWatcher/index.html",
+    "title": "FEDWatcher",
+    "section": "",
+    "text": "FEDWatcher is sofware to connect up to 4 FED3 feeder devices to one Raspberry Pi 4. The Raspberry Pi communicates with the FED3 devices using software serial from the BNC/headphone jack port of the Adafruit feather into the activated UART channels on the Pi.\nCheck the repo"
+  },
+  {
+    "objectID": "posts/fed3/index.html",
+    "href": "posts/fed3/index.html",
+    "title": "fed3",
+    "section": "",
+    "text": "The goal of fed3 is to analyze data coming from FED3 feeder devices from KravitzLabDevices.\nCheck the 📖 Docs and the Repo."
+  }
+]

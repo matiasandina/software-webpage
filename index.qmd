@@ -1,0 +1,10 @@
+---
+title: "Software"
+listing:
+  contents: posts
+  type: grid
+  grid-columns: 3
+  image-height: 250px
+  categories: true
+page-layout: full
+---

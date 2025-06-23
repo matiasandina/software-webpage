@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Matias Andina"
+  site-url: "https://software.matiasandina.com"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: https://matiasandina.com/
+        text: Main Site
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

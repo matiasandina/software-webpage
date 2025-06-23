@@ -1,0 +1,12 @@
+---
+title: "FEDWatcher"
+description: "python application to store real-time data from FED devices"
+image: "fw_thumb.svg"
+categories: ["python"]
+---
+
+FEDWatcher is sofware to connect up to 4 [FED3 feeder devices](https://github.com/KravitzLabDevices/FED3/) to one Raspberry Pi 4. The Raspberry Pi communicates with the FED3 devices using software serial from the BNC/headphone jack port of the Adafruit feather into the activated UART channels on the Pi.
+
+Check the [repo](https://github.com/matiasandina/FEDWatcher)
+
+![](fedwatcher_logo.svg){fig-align="center" width=300px}

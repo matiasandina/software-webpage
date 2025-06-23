@@ -1,0 +1,12 @@
+---
+title: "fed3"
+description: "R package to import data from FED3 machines and perform analysis"
+image: "fed3_thumb.png"
+categories: ["R"]
+---
+
+The goal of [fed3](matiasandina.github.io/fed3/) is to analyze data coming from [FED3 feeder devices from KravitzLabDevices](https://github.com/KravitzLabDevices/FED3/).
+
+Check the 📖 [Docs](matiasandina.github.io/fed3/) and the [Repo](https://github.com/matiasandina/fed3/tree/master).
+
+![](fed3.png){fig-align="center"}
